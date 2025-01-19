@@ -31,7 +31,7 @@ Edit the `Eoracle-operator-setup/data-validator/.env` and update the values for 
 [!NOTE]
 If you plan to operate eoracle on Holesky, then copy `.example_env_holeksy` instead of `.example_env`
 ```bash
-cp data/validator/.example_env_holeksy data-validaotr/.env`
+cp data-validator/.example_env_holesky data-validator/.env
 ```
 
 ### Generate a BLS pair (recommended)
